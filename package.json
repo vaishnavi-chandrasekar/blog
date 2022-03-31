@@ -9,6 +9,8 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
+    "react-typewriter-effect": "^1.1.0",
+    "typewriter": "^7.4.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
